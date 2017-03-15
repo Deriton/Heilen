@@ -1,2 +1,2 @@
 # Heilen
-Kann Heilen für Minecraft
+Kann Heilen für Minecraft Plugin
